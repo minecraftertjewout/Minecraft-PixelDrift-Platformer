@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://d04eogq2s2ysy"
+path="res://.godot/imported/Minecraft Album - Pixel Drift.mp3-3f6c936e16b39d1c766a24bbbf4e5ba6.mp3str"
+
+[deps]
+
+source_file="res://Minecraft Album - Pixel Drift.mp3"
+dest_files=["res://.godot/imported/Minecraft Album - Pixel Drift.mp3-3f6c936e16b39d1c766a24bbbf4e5ba6.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
