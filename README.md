@@ -1,2 +1,3 @@
-# Minecraft-PixelDrift-Platformer
-A platformer from the Minecraft PixelDrift soudtrack.
+# Minecraft PixelDrift Platformer
+#### From the Minecraft PixelDrift Album
+###### Made in Godot :)!
